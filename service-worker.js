@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.34c4fe049091c391070384950f7f84be.js"
+  "/precache-manifest.daabcb43e1682dd13c3cbb68b71da168.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kiwidev"});
