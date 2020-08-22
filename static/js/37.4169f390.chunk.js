@@ -1,0 +1,2 @@
+(this["webpackJsonpparamirez.github.io"]=this["webpackJsonpparamirez.github.io"]||[]).push([[37],{60:function(i,e,t){!function(i){"use strict";i.defineMode("diff",(function(){var i={"+":"positive","-":"negative","@":"meta"};return{token:function(e){var t=e.string.search(/[\t ]+?$/);if(!e.sol()||0===t)return e.skipToEnd(),("error "+(i[e.string.charAt(0)]||"")).replace(/ $/,"");var n=i[e.peek()]||e.skipToEnd();return-1===t?e.skipToEnd():e.pos=t,n}}})),i.defineMIME("text/x-diff","diff")}(t(2))}}]);
+//# sourceMappingURL=37.4169f390.chunk.js.map
